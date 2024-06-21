@@ -3,3 +3,4 @@ Full stack web development
 >> Css
 >> Bootstap
 >> tailwind
+>> javascrript
